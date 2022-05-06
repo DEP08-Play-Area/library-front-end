@@ -2,7 +2,9 @@
   "name": "library-front-end",
   "version": "1.0.0",
   "description": "",
-  "source": ["src/index.html"],
+  "source": [
+    "src/index.html"
+  ],
   "scripts": {
     "watch": "tsc --watch",
     "build": "parcel build",
@@ -21,5 +23,8 @@
   "homepage": "https://github.com/DEP08-Play-Area/library-front-end#readme",
   "devDependencies": {
     "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "admin-lte": "^3.2.0"
   }
 }
