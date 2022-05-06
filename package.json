@@ -2,7 +2,7 @@
   "name": "library-front-end",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "source": ["src/index.html"],
   "scripts": {
     "watch": "tsc --watch",
     "build": "parcel build",
