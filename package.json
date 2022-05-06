@@ -1,0 +1,25 @@
+{
+  "name": "library-front-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc --watch",
+    "build": "parcel build",
+    "start": "parcel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEP08-Play-Area/library-front-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEP08-Play-Area/library-front-end/issues"
+  },
+  "homepage": "https://github.com/DEP08-Play-Area/library-front-end#readme",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
